@@ -1,0 +1,38 @@
+body {
+  background-image: url(img/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Georgia;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: comic sans ms;
+  font-size: 60px;
+  color: darkblue;
+}
+
+h4 {
+  text-align: center;
+  font-style: italic;
+}
+
+.nita {
+  color: red;
+  font-variant: small-caps;
+}
+
+.nita:hover {
+  color: white;
+}
+
+.mark:hover {
+  color: white;
+  background-color: darkblue;
+}
+
+.paragraf1 {
+  text-align: center;
+  color: orange;
+}

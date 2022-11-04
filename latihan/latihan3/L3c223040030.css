@@ -1,0 +1,35 @@
+body {
+  background-color: aqua;
+  font-family: Georgia;
+}
+
+h1 {
+  font-family: comic sans ms;
+  font-size: 60px;
+  text-align: center;
+  color: darkblue;
+}
+
+h4 {
+  text-align: right;
+  font-style: italic;
+}
+
+.nita {
+  color: white;
+  font-variant: small-caps;
+}
+
+.nita:hover {
+  color: red;
+}
+
+.mark:hover {
+  color: white;
+  background-color: darkblue;
+}
+
+.paragraf1 {
+  text-align: center;
+  color: orange;
+}
